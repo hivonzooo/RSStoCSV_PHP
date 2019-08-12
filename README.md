@@ -6,4 +6,4 @@ nazwę pliku do którego powinien go wyeksportować wraz z rozszerzeniem.
 
 Przykład: "php src/console.php csv:simple https://feeds.feedburner.com/dobreprogramy/Aktualnosci PLIK.csv"
 
-Po wykonaniu polecenia program pobierze dane z adres i zapisze je w odpowiednim formacie do pliku.
+Po wykonaniu polecenia program pobierze dane z adres i zapisze je w formacie podanym w ścieżce.
