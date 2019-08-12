@@ -1,5 +1,3 @@
-#OPIS ORAZ INSTALACJA
-
 Jest to prosty program przetwarzający RSS do formatu *.csv odczytywanego przez pakiety biurowe jak Microsoft Excel czy Libre Calc. 
 Do działania potrzebuje tylko zainstalowaną [najnowszą wersję PHP z oficjalnej witryny](https://www.php.net/downloads.php). 
 Obsługuje dwa rodzaje komend "php console.php csv:simple" do tworzenia nowego pliku i dodawania do niego zawartości ze ścieżki 
